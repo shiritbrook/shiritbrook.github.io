@@ -1,1 +1,1 @@
-# shiritbrook-shiritbrook.github.io
+# shiritbrook.github.io
